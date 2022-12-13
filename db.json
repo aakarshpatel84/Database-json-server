@@ -508,4 +508,33 @@
       }
     ]
   ]
+  {
+    "Boots": [
+      {
+        "Img": "https://n.nordstrommedia.com/id/sr3/4c0a8885-8137-40f2-b810-1b6fc529f1ae.jpeg?h=365&w=240&dpr=2",
+        "Tittle": "Laguna Waterproof Lug Sole Chelsea Boot (Women)",
+        "Price": "INR 8,771.68 – INR 14,619.47"
+      },
+      {
+        "Img": "https://n.nordstrommedia.com/id/sr3/f3333929-b6b6-4998-a734-e616bdd8d97d.jpeg?h=365&w=240&dpr=2",
+        "Tittle": "UGG Classic Mini II Genuine Shearling Lined Boot (Women)",
+        "Price": "INR 12,899.54"
+      },
+      {
+        "Img": "https://n.nordstrommedia.com/id/sr3/025167c0-eb67-49af-ab34-f1a131481e1a.jpeg?h=365&w=240&dpr=2",
+        "Tittle": "Chuck Taylor® All Star® High Top Platform Sneaker (Women)",
+        "Price": "INR 6,449.77"
+      },
+      {
+        "Img": "https://n.nordstrommedia.com/id/sr3/9f7de05c-6aae-45ae-bf9f-1e7134a88d2a.jpeg?h=365&w=240&dpr=2",
+        "Tittle": "Art Pointed Toe Bootie",
+        "Price": "INR 7,731.12"
+      },
+      {
+        "Img": "https://n.nordstrommedia.com/id/sr3/ed2fef15-834a-4329-b194-3aedb74fe5dc.jpeg?h=365&w=240&dpr=2",
+        "Tittle": "Hayle Platform Chelsea Boot (Women)",
+        "Price": "INR 8,595.39 – INR 9,455.36"
+      }
+    ]
+  }
 }
