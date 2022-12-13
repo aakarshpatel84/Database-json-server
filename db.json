@@ -476,36 +476,5 @@
         }
       ]
     }
-  ],
-  "Jeans": [
-    [
-      {
-        "Image": "https://n.nordstrommedia.com/id/sr3/4f576d54-d1fe-4680-8235-b3bf9e4acb35.jpeg?h=365&w=240&dpr=2",
-        "Time": "Limited-Time Sale",
-        "Brand": "Devil-Dog Dungarees",
-        "Tittle": "Relaxed Straight Leg Jeans (Burke)",
-        "Price": "INR 4,076.25",
-        "Offer": "40% off.",
-        "MRP": "INR 6,793.76"
-      },
-      {
-        "Image": "https://n.nordstrommedia.com/id/sr3/87512320-11e5-4847-830a-c39097a40d58.jpeg?h=365&w=240&dpr=2",
-        "Time": "",
-        "Brand": "Mavi Jeans",
-        "Tittle": "Matt Relaxed Fit Jeans (Deep Stanford Comfort)",
-        "Price": "INR 8,427.70",
-        "Offer": "",
-        "MRP": ""
-      },
-      {
-        "Image": "https://n.nordstrommedia.com/id/sr3/aa85fe38-94f7-4018-ac30-a55ceda0535e.jpeg?h=365&w=240&dpr=2",
-        "Time": "",
-        "Brand": "Devil-Dog Dungarees",
-        "Tittle": "Athletic Fit Performance Stretch Jeans (Burke)",
-        "Price": "INR 6,793.76",
-        "Offer": "",
-        "MRP": ""
-      }
-    ]
   ]
 }
