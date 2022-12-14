@@ -1139,8 +1139,8 @@
       "id": 90,
       "image": "https://gloimg.gbtcdn.com/soa/gb/item/6870745450383863808/16702/goods_thumb_220-v1/ff4050312314.jpg",
       "title": "Oukitel WP21 Rugged Night Vision Smartphone 9800 mAh 12GB RAM 256 GB ROM  64MP Camera 66W 120 Hz Helio G99",
-      "price": "899.00",
-      "price__1": "385.00"
+      "price": 899.0,
+      "price__1": 385.0
     },
     {
       "id": 91,
@@ -1153,8 +1153,8 @@
       "id": 92,
       "image": "https://gloimg.gbtcdn.com/soa/gb/item/6870745450383863808/16702/goods_thumb_220-v1/b327462f6ecd.jpg",
       "title": "Blackview Tab 7 Tablet 10.1 Inch 1280X800 Android 11 6580mAh 3GB 32GB 4G WIFI LTE Tablets Kindle Ebook Type-C",
-      "price": "229.00",
-      "price__1": "138.00"
+      "price": 229.0,
+      "price__1": 138.0
     },
     {
       "id": 93,
