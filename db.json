@@ -1394,5 +1394,286 @@
       "strike": 6099,
       "price": 3968
     }
+  ],
+  "mumbai": [
+    {
+      "id": 1,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1499863261/Hotel/Mumbai/00084101/Overview_(1)_5xH6Ep.jpg",
+      "title": "Ginger Hotel, Mumbai, Andheri",
+      "location": "Andheri East,",
+      "rating": 3.9,
+      "status": "Very Good",
+      "price": 21498
+    },
+    {
+      "id": 2,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1436197021/Domestic%20Hotels/Hotels_Mumbai/Hotel%20Strand/Overview.jpg",
+      "title": "Strand Hotel",
+      "location": "Colaba,",
+      "rating": 3.7,
+      "status": "Very Good",
+      "price": 13000
+    },
+    {
+      "id": 3,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1398670419/Domestic%20Hotels/Hotels_Mumbai/Courtyard%20by%20Marriott%20Mumbai%20International%20Airport/Overview.jpg",
+      "title": "Courtyard by Marriott Mumbai International Airport",
+      "location": "Andheri East,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "price": 33000
+    },
+    {
+      "id": 4,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1398861411/Domestic%20Hotels/Hotels_Mumbai/The%20LaLiT%20Mumbai/Overview.jpg",
+      "title": "The LaLiT Mumbai",
+      "location": "Andheri East,",
+      "rating": 3.5,
+      "status": "",
+      "price": 53000
+    },
+    {
+      "id": 5,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1413788122/Domestic%20Hotels/Hotels_Mumbai/The%20Retreat%20Hotel%20And%20Convention%20Centre/Exterior.jpg",
+      "title": "The Retreat Hotel & Convention Centre",
+      "location": "Malad,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "price": 11778
+    },
+    {
+      "id": 6,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1583995846/Hotel/00000153/Deluxe_Room_dGDTnx.jpg",
+      "title": "The Orchid Mumbai",
+      "location": "Domestic Airport,",
+      "rating": 4.3,
+      "status": "Excellent",
+      "price": 32998
+    },
+    {
+      "id": 7,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1558786578/Hotel/Mumbai/00001747/27651965-H1-001_Exterior_T7m6e4.jpg",
+      "title": "Taj Lands End",
+      "location": "Bandra,",
+      "rating": 4.3,
+      "status": "Excellent",
+      "price": 52500
+    },
+    {
+      "id": 8,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1420023135/Domestic%20Hotels/Hotels_Mumbai/ITC%20Grand%20Central/Overview.jpg",
+      "title": "ITC Grand Central Mumbai, A Luxury Collection Hotel",
+      "location": "Lower Parel,",
+      "rating": 4.3,
+      "status": "Excellent",
+      "price": 39000
+    },
+    {
+      "id": 9,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v6463009586/Hotel/00042955/T2_eImx8d.JPG",
+      "title": "Niranta Airport Hotel and Lounge Landside",
+      "location": "Andheri East,",
+      "rating": 4.3,
+      "status": "Excellent",
+      "price": 37252
+    },
+    {
+      "id": 10,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1404296229/Domestic%20Hotels/Hotels_Mumbai/The%20Emerald%20Hotel%20And%20Executive%20Apartments/Overview.jpg",
+      "title": "Regenta Place The Emerald",
+      "location": "Juhu,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 17000
+    },
+    {
+      "id": 11,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v6221640864/Hotel/00001042/WhatsApp_Image_2020_03_10_at_12_23_26_PM_1__xDdWxt.jpeg",
+      "title": "The Resort",
+      "location": "Malad,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 15598
+    },
+    {
+      "id": 12,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1401188452/Domestic%20Hotels/Hotels_Mumbai/Hilton%20Mumbai%20International%20Airport/Overview.jpg",
+      "title": "Hilton Mumbai International Airport",
+      "location": "Sahar Airport Road,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 39400
+    },
+    {
+      "id": 13,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1507726141/Hotel/Mumbai/00000377/36_HF3vJV.jpg",
+      "title": "Ramee Guestline Hotel, Juhu",
+      "location": "Juhu,",
+      "rating": 4.4,
+      "status": "Very Good",
+      "price": 17449
+    },
+    {
+      "id": 14,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1497005929/Hotel/Mumbai/00007327/1552803-007_FK5e7r.jpg",
+      "title": "Hotel Suba International",
+      "location": "Andheri East,",
+      "rating": 4.4,
+      "status": "",
+      "price": 55500
+    },
+    {
+      "id": 15,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1408455138/Domestic%20Hotels/Hotels_Mumbai/Hotel%20Sea%20Princess/Overview.jpg",
+      "title": "Hotel Sea Princess",
+      "location": "Juhu,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 34800
+    },
+    {
+      "id": 16,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1402574868/Domestic%20Hotels/Hotels_Navi%20Mumbai/Celebrations%20-%20A%20Business%20Deluxe%20Hotel/Gym.jpg",
+      "title": "K Stars Beacon Hotel",
+      "location": "Navi Mumbai,",
+      "rating": 4.4,
+      "status": "Very Good",
+      "price": 7450
+    },
+    {
+      "id": 17,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1443872316/Domestic%20Hotels/Hotels_Mumbai/Trident%20hotel%20Bandra/Hotel_facade_at_night_A.jpg",
+      "title": "Trident, Bandra Kurla",
+      "location": "Bandra,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 36500
+    },
+    {
+      "id": 18,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1549452607/Hotel/Mumbai/00001739/Taj_Mahal_Tower_Mumbai_75768_VK8YT0.jpg",
+      "title": "Taj Mahal Tower, Mumbai",
+      "location": "Colaba,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 58500
+    },
+    {
+      "id": 19,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1551266825/Hotel/Mumbai/00001744/94312445-H1-Vivanta_zUgFVb.jpg",
+      "title": "President, Mumbai - IHCL SeleQtions",
+      "location": "Colaba,",
+      "rating": 4.4,
+      "status": "Excellent",
+      "price": 48400
+    },
+    {
+      "id": 20,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1549976121/Hotel/Mumbai/00043363/bomxr-exterior-1522-hor-feat_4jKhbZ.jpg",
+      "title": "The St. Regis Mumbai",
+      "location": "Lower Parel,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 60500
+    },
+    {
+      "id": 21,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1433234992/Domestic%20Hotels/Hotels_Mumbai/Hotel%20Sofitel%20BKC/Facade.jpg",
+      "title": "Sofitel Mumbai BKC",
+      "location": "Bandra,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 53000
+    },
+    {
+      "id": 22,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1479373447/Domestic%20Hotels/Hotels_Mumbai/Novotel%20Mumbai%20Juhu%20Beach/Overview.jpg",
+      "title": "Novotel Mumbai Juhu Beach",
+      "location": "Juhu,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 36000
+    },
+    {
+      "id": 23,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v3106475432/Hotel/Mumbai/00003347/ITC_Maratha_Facade_o0l7Dv.png",
+      "title": "ITC Maratha Mumbai, A Luxury Collection Hotel",
+      "location": "Andheri East,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 29100
+    },
+    {
+      "id": 24,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1581051353/Hotel/Mumbai/00073513/19640389_76_Facade_O3kiZ5.jpg",
+      "title": "Niranta Transit Hotel Mumbai Airport",
+      "location": "Andheri East,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 34375
+    },
+    {
+      "id": 25,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1439545446/Domestic%20Hotels/Hotels_Mumbai/The%20Oberoi/Exterior_view.jpg",
+      "title": "The Oberoi Mumbai",
+      "location": "Marine Drive,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 41530
+    },
+    {
+      "id": 26,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1499060813/Hotel/Mumbai/00006498/Roomview_(1)_D10a6a.jpg",
+      "title": "InterContinental Marine Drive",
+      "location": "Marine Drive,",
+      "rating": 4.5,
+      "status": "Excellent",
+      "price": 34469
+    },
+    {
+      "id": 27,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1539249980/Hotel/00043826/IMG-20150708-WA0019_(1)_EEQof9.jpg",
+      "title": "Rudra Shelter International",
+      "location": "Vasai,",
+      "rating": 4.5,
+      "status": "Very Good",
+      "price": 3853
+    },
+    {
+      "id": 28,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1563276766/Hotel/00017425/DELUX__(1)_p28Ytk.jpg",
+      "title": "Hotel Express Inn",
+      "location": "Thane West,",
+      "rating": 4.9,
+      "status": "Excellent",
+      "price": 6000
+    },
+    {
+      "id": 29,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v7049502072/Hotel/00193694/_JGK4625_6_7_rEQJld.jpg",
+      "title": "Itsy By Treebo - Galaxy Inn",
+      "location": "Andheri East,",
+      "rating": 4.9,
+      "status": "Very Good",
+      "price": 3430
+    },
+    {
+      "id": 30,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1443437260/Domestic%20Hotels/Hotels_Mumbai/shangrila%20hotel/room%20view.jpg",
+      "title": "Shangrila Hotel",
+      "location": "Sion,",
+      "rating": 4.9,
+      "status": "Very Good",
+      "price": 12262
+    },
+    {
+      "id": 31,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1440740601/Domestic%20Hotels/Hotels_Mumbai/Hotel%20Better%20Home%20International/Hotel_Exterior_1.jpg",
+      "title": "Hotel Better Home International",
+      "location": "Sahar Road,",
+      "rating": 4.9,
+      "status": "Very Good",
+      "price": 27000
+    }
   ]
 }
