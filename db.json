@@ -1092,5 +1092,307 @@
       "strike": "",
       "categorey": "Couple Friendly"
     }
+  ],
+  "goa": [
+    {
+      "id": 1,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1511426014/Hotel/Goa/00001793/4257079_Facade_Image_3lOBD5.jpg",
+      "title": "Riva Beach Resort",
+      "location": "Mandrem,",
+      "rating": 2.3,
+      "status": "Excellent",
+      "strike": 11713,
+      "price": 7055
+    },
+    {
+      "id": 2,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1960647087/Hotel/00015295/4U0A8331a_5xPKa4.jpg",
+      "title": "De Alturas Resort",
+      "location": "Candolim,",
+      "rating": 2.3,
+      "status": "Very Good",
+      "strike": 8000,
+      "price": 5511
+    },
+    {
+      "id": 3,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1464469369/Domestic%20Hotels/Hotels_Goa/Golden%20Tulip%20Goa/HO_fZXrYy.jpg",
+      "title": "Golden Tulip Goa Candolim",
+      "location": "Candolim,",
+      "rating": 2.3,
+      "status": "Excellent",
+      "strike": 11999,
+      "price": 8130
+    },
+    {
+      "id": 4,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v8023431689/Hotel/00005181/4U0A6743a15_czK8N5.jpg",
+      "title": "Resort De Coracao By First Halt",
+      "location": "Calangute,",
+      "rating": 2.3,
+      "status": "Excellent",
+      "strike": 7000,
+      "price": 5358
+    },
+    {
+      "id": 5,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1544175652/Hotel/Goa/00141871/Restaurant-3_MSKbGa.jpg",
+      "title": "The Avenue Calangute",
+      "location": "Calangute,",
+      "rating": 2.3,
+      "status": "Excellent",
+      "strike": 5500,
+      "price": 4210
+    },
+    {
+      "id": 6,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1515653844/Hotel/00002178/Reception_night_view_tBGrQu.jpg",
+      "title": "Estrela Do Mar Beach Resort - A Beach Property, Goa",
+      "location": "Calangute,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 8000,
+      "price": 4348
+    },
+    {
+      "id": 7,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v4457077669/Hotel/00000732/DSC07191_spE2SC.jpg",
+      "title": "Neelams The Grand",
+      "location": "Calangute,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 9375,
+      "price": 5741
+    },
+    {
+      "id": 8,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1560246768/Hotel/00003951/123_RCGnCI.jpg",
+      "title": "Resort Terra Paraiso",
+      "location": "Calangute,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "strike": 8500,
+      "price": 5759
+    },
+    {
+      "id": 9,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v7330902173/Hotel/00177839/1598538737948_fTtgG5.jpg",
+      "title": "Baga Hideout Premiere",
+      "location": "Baga,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 7000,
+      "price": 5358
+    },
+    {
+      "id": 10,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v3050913384/Hotel/00010961/Imperia_Suite_4_PgWt3B.jpg",
+      "title": "Resort De Crossroads",
+      "location": "Calangute,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 6600,
+      "price": 3435
+    },
+    {
+      "id": 11,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1534234973/Hotel/Goa/00136225/1_CTeJsk.jpg",
+      "title": "Rio Boutique",
+      "location": "Bardez,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "strike": 6450,
+      "price": 4197
+    },
+    {
+      "id": 12,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1409568933/Domestic%20Hotels/Hotels_Goa/Sukhmantra%20Resort%20and%20Spa/Overview.jpg",
+      "title": "Sukhmantra Resort and Spa",
+      "location": "Candolim,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 4050,
+      "price": 2945
+    },
+    {
+      "id": 13,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1503556804/Hotel/Goa/00081866/Display_Image_c12uJf.jpg",
+      "title": "Baga Hideout Resort",
+      "location": "Baga,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 4499,
+      "price": 3444
+    },
+    {
+      "id": 14,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1525864355/Hotel/Goa/00003470/6672117_53042676_K7yW0f.jpg",
+      "title": "Alagoa Beach Resort",
+      "location": "Colva,",
+      "rating": 3.5,
+      "status": "Very Good",
+      "strike": 5500,
+      "price": 3368
+    },
+    {
+      "id": 15,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v8078180749/Hotel/00103513/IMG_0304_z4DbPj.JPG",
+      "title": "Hotel Goa Continental",
+      "location": "Arpora,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "strike": 3750,
+      "price": 2870
+    },
+    {
+      "id": 16,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v9681791660/Hotel/00174817/_MG_6801_4cxkiD.jpg",
+      "title": "Jasminn South Goa",
+      "location": "Betalbatim,",
+      "rating": 3.5,
+      "status": "Excellent",
+      "strike": 5500,
+      "price": 3789
+    },
+    {
+      "id": 17,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v3781971554/Hotel/00184493/1_G62k3y.jpg",
+      "title": "Okean De Goa Resort",
+      "location": "Anjuna,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 4500,
+      "price": 3100
+    },
+    {
+      "id": 18,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1512635965/Hotel/Goa/00005781/1_Hotel_Facade_xtFdpB.jpg",
+      "title": "Country inn and Suites by Raddison, Goa Candolim",
+      "location": "Candolim,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 6444,
+      "price": 5001
+    },
+    {
+      "id": 19,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1480414169/Domestic%20Hotels/Hotels_Goa/Hard%20Rock%20Hotel%20Goa/HRH_Goa_Pool_9.jpg",
+      "title": "Hard Rock Hotel Goa",
+      "location": "Calangute,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 11249,
+      "price": 9562
+    },
+    {
+      "id": 20,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v3423465516/Hotel/00003518/_J3A6254_HDR_eTQAJS.jpg",
+      "title": "Heritage Village Resort and Spa, Goa",
+      "location": "Cansaulim,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 14499,
+      "price": 11499
+    },
+    {
+      "id": 21,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1549276639/Hotel/00147581/Courtyard_Room_-_2_2BPmIq.jpg",
+      "title": "Acron Seaway Resort",
+      "location": "Candolim,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 6099,
+      "price": 4201
+    },
+    {
+      "id": 22,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1448430430/Domestic%20Hotels/Hotels_Goa/Baywatch%20Resort/FRONT-VIEW.jpg",
+      "title": "Baywatch Beach Resort",
+      "location": "Colva,",
+      "rating": 4.2,
+      "status": "Very Good",
+      "strike": 6499,
+      "price": 4726
+    },
+    {
+      "id": 23,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1503308975/Hotel/Goa/00001053/2105652-Balcony_Room_CcCQlL.jpg",
+      "title": "Whispering Palms Beach Resort",
+      "location": "Candolim,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 10700,
+      "price": 8056
+    },
+    {
+      "id": 24,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v0359070094/Hotel/00114367/1_hGu1BR.JPG",
+      "title": "The Regalia Resort",
+      "location": "Mandrem,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 7500,
+      "price": 5052
+    },
+    {
+      "id": 25,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1536049684/Hotel/Goa/00002229/file_pw1oei.jpg",
+      "title": "Casa Anjuna",
+      "location": "Anjuna,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 8000,
+      "price": 6023
+    },
+    {
+      "id": 26,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v6006981280/Hotel/00004973/0U0A7575a_2__oP4r46.jpg",
+      "title": "Le Seasons Resort",
+      "location": "Candolim,",
+      "rating": 4.2,
+      "status": "Very Good",
+      "strike": 9000,
+      "price": 5442
+    },
+    {
+      "id": 27,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1501046390/Hotel/Goa/00000193/Colonia_santa_image_6_Wwwbk0.jpg",
+      "title": "Colonia Santa Maria (CSM)",
+      "location": "Calangute,",
+      "rating": 4.2,
+      "status": "Excellent",
+      "strike": 7800,
+      "price": 5074
+    },
+    {
+      "id": 28,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1560151986/Hotel/00004817/12_Superior_King_Size_9hoMc5.jpg",
+      "title": "Kyriad Prestige Calangute Goa by OTHPL",
+      "location": "Calangute,",
+      "rating": 4.9,
+      "status": "Excellent",
+      "strike": 5530,
+      "price": 3810
+    },
+    {
+      "id": 29,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_desktop/v1510748058/Hotel/Goa/00096496/3944004-hotel_exterior_DQHeTT.jpg",
+      "title": "BloomSuites l Calangute",
+      "location": "Calangute,",
+      "rating": 4.9,
+      "status": "Excellent",
+      "strike": 9500,
+      "price": 8550
+    },
+    {
+      "id": 30,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v3865462368/Hotel/00008960/5_7__jUYLB0.jpg",
+      "title": "Zone Connect Goa, Calangute",
+      "location": "Calangute,",
+      "rating": 4.9,
+      "status": "Excellent",
+      "strike": 6099,
+      "price": 3968
+    }
   ]
 }
