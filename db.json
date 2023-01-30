@@ -921,6 +921,246 @@
       "discount": 40
     }
   ],
+  "allData": [
+    {
+      "id": 1,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/i/o/y/14itl6-thin-and-light-laptop-lenovo-original-imaghnzgxvnj3agg.jpeg?q=70",
+      "title": "Lenovo Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14ITL6 Thin and Light Laptop",
+      "price": 61390,
+      "discount": 38
+    },
+    {
+      "id": 2,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/e/g/w/axl-intel-celeron-newly-launched-thin-light-laptop-14-1-inch-hd-original-imaghksyvhshpzry.jpeg?q=70",
+      "title": "AXL Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) AXL14W_LAP01 Thin and Light Laptop",
+      "price": 31990,
+      "discount": 37
+    },
+    {
+      "id": 3,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",
+      "title": "HP 14s Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14s - dy2507TU Thin and Light Laptop",
+      "price": 47206,
+      "discount": 23
+    },
+    {
+      "id": 4,
+      "image": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/q/x/r/hp-original-imaftyzachgrav8f.jpeg?q=70",
+      "title": "HP Pavilion Ryzen 5 Hexa Core AMD R5-5600H - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce ...",
+      "price": 63539,
+      "discount": 21
+    },
+    {
+      "id": 5,
+      "image": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+      "title": "Lenovo Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 81X800J3IN | 81X800LGIN Thin and Lig...",
+      "price": 59890,
+      "discount": 33
+    },
+    {
+      "id": 6,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/6/t/7/15itl05-thin-and-light-laptop-lenovo-original-imagheh5nvy6gq9k.jpeg?q=70",
+      "title": "Lenovo Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15ITL05 Thin and Light Laptop",
+      "price": 48490,
+      "discount": 32
+    },
+    {
+      "id": 7,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l5e81ow0/computer/j/w/o/ex-215-54-thin-and-light-laptop-acer-original-imagg28wzdeny2jq.jpeg?q=70",
+      "title": "acer Extensa Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) EX 215-54 Thin and Light Laptop",
+      "price": 39999,
+      "discount": 20
+    },
+    {
+      "id": 8,
+      "image": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+      "title": "Lenovo Intel Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 81WQ00MQIN|81WQ00NXIN Laptop",
+      "price": 40490,
+      "discount": 26
+    },
+    {
+      "id": 9,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l58iaa80/computer/q/s/w/inspiron-3511-laptop-dell-original-imagfycrbnpu2nbh.jpeg?q=70",
+      "title": "DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) D560841WIN9S Thin and Ligh...",
+      "price": 61202,
+      "discount": 31
+    },
+    {
+      "id": 10,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",
+      "title": "HP 14s Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14s - dy2508TU Thin and Light Laptop",
+      "price": 49509,
+      "discount": 15
+    },
+    {
+      "id": 11,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/j/6/i/-original-imaghryqhhyawh3h.jpeg?q=70",
+      "title": "ASUS Vivobook Pro 15 Ryzen 7 Octa Core AMD R7-4800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/...",
+      "price": 82990,
+      "discount": 27
+    },
+    {
+      "id": 12,
+      "image": "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/z/0/m/ideapad-slim-laptop-lenovo-original-imag57x3p7bw8y8b.jpeg?q=70",
+      "title": "Lenovo Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 81WA00K1IN Laptop",
+      "price": 56800,
+      "discount": 31
+    },
+    {
+      "id": 13,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/x/o/u/-original-imaghkk994ybh4fh.jpeg?q=70",
+      "title": "DELL Vostro Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3510 Thin and Light L...",
+      "price": 58489,
+      "discount": 31
+    },
+    {
+      "id": 14,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/n/o/s/-original-imaghzah9mjvukjz.jpeg?q=70",
+      "title": "DELL Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop Thin and Light Laptop",
+      "price": 75649,
+      "discount": 23
+    },
+    {
+      "id": 15,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/o/t/h/-original-imagg6t9pauha4t7.jpeg?q=70",
+      "title": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS Thin and Light La...",
+      "price": 50990,
+      "discount": 21
+    },
+    {
+      "id": 16,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/v/e/s/15igl05-thin-and-light-laptop-lenovo-original-imaghvfkfwpmnpcf.jpeg?q=70",
+      "title": "Lenovo Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 15IGL05 Thin and Light Laptop",
+      "price": 38900,
+      "discount": 25
+    },
+    {
+      "id": 17,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/h/d/7/aspire-3-notebook-acer-original-imagg62zgjtdhffs.jpeg?q=70",
+      "title": "acer Aspire Core i3 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) A315-59 Notebook",
+      "price": 54999,
+      "discount": 27
+    },
+    {
+      "id": 18,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/t/q/2/-original-imagkqwzyzfahqac.jpeg?q=70",
+      "title": "HP 14s Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14s - dy5005TU Thin and Light Lapto...",
+      "price": 75191,
+      "discount": 21
+    },
+    {
+      "id": 19,
+      "image": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/c/q/t/lenovo-na-thin-and-light-laptop-original-imafuzt873zgp9xe.jpeg?q=70",
+      "title": "Lenovo Intel Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 81WA00Q3IN|81WA00MEIN Thin and Light...",
+      "price": 50290,
+      "discount": 32
+    },
+    {
+      "id": 20,
+      "image": "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/z/0/m/ideapad-slim-laptop-lenovo-original-imag57x3p7bw8y8b.jpeg?q=70",
+      "title": "Lenovo Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 81WB010XIN Laptop",
+      "price": 48900,
+      "discount": 22
+    },
+    {
+      "id": 21,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/e/i/d/15s-fr2511tu-thin-and-light-laptop-hp-original-imagg59a7s5kymvy.jpeg?q=70",
+      "title": "HP 15s Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fr2511TU Thin and Light Laptop",
+      "price": 50585,
+      "discount": 18
+    },
+    {
+      "id": 22,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/a/3/9/x515ja-ej382ws-laptop-asus-original-imaghhwnkafntrrc.jpeg?q=70",
+      "title": "ASUS Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ382WS Laptop",
+      "price": 50990,
+      "discount": 33
+    },
+    {
+      "id": 23,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4fxh8w0/computer/s/i/s/-original-imagfc54nty5wgeh.jpeg?q=70",
+      "title": "HP Pavilion Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2015TU Thin and Light Laptop",
+      "price": "1,02,473",
+      "discount": 12
+    },
+    {
+      "id": 24,
+      "image": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/c/q/t/lenovo-na-thin-and-light-laptop-original-imafuzt873zgp9xe.jpeg?q=70",
+      "title": "Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop",
+      "price": 60890,
+      "discount": 40
+    },
+    {
+      "id": 25,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/r/n/c/-original-imagknmrvtmrgvyb.jpeg?q=70",
+      "title": "Gear CLASSIC ANTI THEFT FAUX LEATHER 20 L Laptop Backpa...",
+      "price": 1999,
+      "discount": 46
+    },
+    {
+      "id": 26,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/f/h/d/-original-imagknmr95cgqync.jpeg?q=70",
+      "title": "Gear VINTAGE2 ANTI THEFT FAUX LEATHER 28 L Laptop Backp...",
+      "price": 2199,
+      "discount": 51
+    },
+    {
+      "id": 27,
+      "image": "https://rukminim1.flixcart.com/image/612/612/klv7ekw0/backpack/r/a/z/eco-4-navy-blue-green-bkpecobp40503-backpack-gear-original-imagyw6zxhxubwmv.jpeg?q=70",
+      "title": "Gear Eco 4 Navy Blue Green 18 L Backpack",
+      "price": 1098,
+      "discount": 50
+    },
+    {
+      "id": 28,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/r/8/k/-original-imaghaswbhd9t2eg.jpeg?q=70",
+      "title": "Gear SUPERIOR BACKPACK 16 L Backpack",
+      "price": 899,
+      "discount": 56
+    },
+    {
+      "id": 29,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/e/d/i/22-space-4-12-bkp0spac40512-laptop-backpack-gear-30-18-original-imagh8ekszebfr74.jpeg?q=70",
+      "title": "Gear Space 4 30 L Laptop Backpack",
+      "price": 1199,
+      "discount": 37
+    },
+    {
+      "id": 30,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kt7jv680/backpack/d/f/b/5-7-pu-laptop-backpack-12-lbppu00000102-laptop-backpack-gear-18-original-imag6hxaemrhfsge.jpeg?q=70",
+      "title": "Gear Vintage 2 Faux Leather Laptop Backpack 25 L Laptop...",
+      "price": 2499,
+      "discount": 60
+    },
+    {
+      "id": 31,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/u/e/7/-original-imagh3w8kzzspsjg.jpeg?q=70",
+      "title": "Gear Campus 8 24 L Backpack",
+      "price": 1299,
+      "discount": 44
+    },
+    {
+      "id": 32,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/backpack/l/e/0/-original-imaghk2mwgtf6rqj.jpeg?q=70",
+      "title": "Gear Eco Backpack 4 Orange Black 18 L Backpack",
+      "price": 1098,
+      "discount": 59
+    },
+    {
+      "id": 33,
+      "image": "https://rukminim1.flixcart.com/image/612/612/ksgehzk0/backpack/p/h/k/4-carry-on-12-bkpcaryon0110-backpack-gear-19-16-original-imag6ynagmrh7vy9.jpeg?q=70",
+      "title": "Gear Carry On 16 L Backpack",
+      "price": 498,
+      "discount": 45
+    },
+    {
+      "id": 34,
+      "image": "https://rukminim1.flixcart.com/image/612/612/kq5iykw0/backpack/b/k/x/bomber-eco-statement-2c-bkpecosnt0901-backpack-gear-25-original-imag487zfzgd9ufx.jpeg?q=70",
+      "title": "Gear BOMBER ECO STATEMENT 2C 25 L Backpack",
+      "price": 1999,
+      "discount": 73
+    }
+  ],
 
   "delhi": [
     {
