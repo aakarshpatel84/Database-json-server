@@ -1170,7 +1170,7 @@
       "location": "Karol Bagh,",
       "rating": 3.3,
       "status": "Very Good",
-      "price": "2,293",
+      "price": 2293,
       "strike": "",
       "categorey": ""
     },
@@ -1181,7 +1181,7 @@
       "location": "Karol Bagh,",
       "rating": 3.8,
       "status": "Very Good",
-      "price": "2,506",
+      "price": 2506,
       "strike": "2,949",
       "categorey": ""
     },
@@ -1203,7 +1203,7 @@
       "location": "Karol Bagh,",
       "rating": 3.7,
       "status": "Very Good",
-      "price": "1,900",
+      "price": 1900,
       "strike": "3,800",
       "categorey": "Couple Friendly"
     },
@@ -1214,7 +1214,7 @@
       "location": "Connaught Place,",
       "rating": 3.6,
       "status": "Very Good",
-      "price": "3,240",
+      "price": 3240,
       "strike": "3,600",
       "categorey": ""
     },
@@ -1225,7 +1225,7 @@
       "location": "Connaught Place,",
       "rating": 3.1,
       "status": "Very Good",
-      "price": "4,759",
+      "price": 4759,
       "strike": "5,599",
       "categorey": ""
     },
@@ -1236,7 +1236,7 @@
       "location": "Connaught Place,",
       "rating": 3.8,
       "status": "Very Good",
-      "price": "5,526",
+      "price": 5526,
       "strike": "6,579",
       "categorey": "Couple Friendly"
     },
@@ -1247,7 +1247,7 @@
       "location": "Mahipalpur,",
       "rating": 3.4,
       "status": "Very Good",
-      "price": "1,823",
+      "price": 1823,
       "strike": "3,645",
       "categorey": "Couple Friendly"
     },
@@ -1258,7 +1258,7 @@
       "location": "Rajokori,",
       "rating": 4.3,
       "status": "Excellent",
-      "price": "5,500",
+      "price": 5500,
       "strike": "",
       "categorey": "Couple Friendly"
     }
