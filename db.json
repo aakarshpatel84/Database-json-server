@@ -1171,7 +1171,7 @@
       "rating": 3.3,
       "status": "Very Good",
       "price": 2293,
-      "strike": "",
+      "strike": "2,625",
       "categorey": ""
     },
     {
@@ -1193,7 +1193,7 @@
       "rating": 3.9,
       "status": "Very Good",
       "price": 499,
-      "strike": "",
+      "strike": "1,204",
       "categorey": ""
     },
     {
@@ -1259,7 +1259,7 @@
       "rating": 4.3,
       "status": "Excellent",
       "price": 5500,
-      "strike": "",
+      "strike": "5,932",
       "categorey": "Couple Friendly"
     }
   ],
